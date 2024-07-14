@@ -1,0 +1,17 @@
+{
+  "name": "cli_base_atm_poo2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  }
+}
